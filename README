@@ -1,1 +1,3 @@
-hello, world
+echo_client0 first console client version
+echo_server first console server version
+echo_client1 first GUI client version
